@@ -1,5 +1,5 @@
 # past-projects
-Descriptions of code I've written before, but that I won't release the code for. Contact me (ahuang98@stanford.edu) if you have questions!
+Descriptions of code I've written before, but that I won't release the code for. Contact me (ahuang98@cs.stanford.edu) if you have questions!
 
 **Shell Code**
 
